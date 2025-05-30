@@ -40,12 +40,5 @@ I'm also deeply curious about **Web3** and **blockchain** technologies — explo
 ![Hardhat](https://img.shields.io/badge/Hardhat-f5de45?logo=ethereum&logoColor=black)  
 ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?logo=ipfs&logoColor=white)
 
----
-
-## 🚀 Projects
-
-- 🔧 [**Project Name**](https://github.com/yourusername/project-name) – A productivity app built with Electron + React
-- 🌐 [**Web3 Explorer**](https://github.com/yourusername/web3-explorer) – A basic Ethereum wallet & transaction viewer (Ethers.js + React)
-- 📁 [**Mini File Manager**](https://github.com/yourusername/mini-file-manager) – Lightweight cross-platform desktop file explorer
 
 
